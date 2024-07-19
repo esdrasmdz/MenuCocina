@@ -5,7 +5,6 @@
 .card-style {
     background-color: white;
     border-radius: 1rem;
-    
     margin: 2rem auto;
     padding: 2.5rem;
     padding-top: 3rem;
@@ -19,14 +18,7 @@
     text-align: center;
     border-radius: .5rem;
     width: 100%;
-    
 }
-
-.container-fluid.tarjetamenu{
-    padding-top: 3rem;
-}
-
-
 
 .titulo{
     font-size: 1.5rem;
