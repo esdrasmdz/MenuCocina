@@ -4,9 +4,8 @@
 
 .card-style {
     background-color: white;
-    
     border-radius: 1rem;
-    width: 90%;
+    
     margin: 2rem auto;
     padding: 2.5rem;
     padding-top: 3rem;
@@ -24,4 +23,10 @@
 
 .container-fluid.tarjetamenu{
     padding-top: 3rem;
+}
+
+
+
+.titulo{
+    font-size: 1.5rem;
 }
